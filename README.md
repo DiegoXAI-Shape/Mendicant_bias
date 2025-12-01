@@ -7,7 +7,7 @@ El principal reto que afronté con este proyecto fue la ineficiencia de mis prim
 
 Otro gran reto que afronté fueron los sesgos y que mi modelo sea flojo al predecir en base a las características de las imágenes, sobre todo el sesgo de textura y el sesgo de brillo.
 
-** Restricción técnica:** no usar modelos pre-entrenados, para ir conociendo más a fondo las arquitecturas modernas como ResNet en base a su paper: https://arxiv.org/pdf/1512.03385
+**Restricción técnica:** no usar modelos pre-entrenados, para ir conociendo más a fondo las arquitecturas modernas como ResNet en base a su paper: https://arxiv.org/pdf/1512.03385
 
 ## Metodología e Ingeniería
 
