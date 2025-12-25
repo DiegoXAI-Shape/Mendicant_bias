@@ -37,8 +37,6 @@ El modelo demuestra una robustez inusual en escenarios difíciles:
 | **Out-of-Distribution (Ropa)** | ✅ **Éxito** | Distingue la textura del gato vs. la textura de la tela (trajes/corbatas), recortando solo al animal. |
 | **Falsos Positivos (Emojis)** | ✅ **Éxito** | Discrimina entre un gato real y ediciones digitales (manos de emoji/stickers). |
 
-*(Sube tus imágenes `Frenchie.jpg`, `Gato_vestido.jpg` y `Waza.jpg` a una carpeta `img/` en tu repo y enlázalas aquí para que se vean)*
-
 ## 🛠️ Instalación y Uso
 
 1. **Clonar el repositorio:**
