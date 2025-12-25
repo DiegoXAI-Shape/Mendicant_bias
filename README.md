@@ -51,7 +51,7 @@ El modelo demuestra una robustez inusual en escenarios difíciles:
    pip install -r requeriments.txt
    
 3. **Predecir:**
-  ```bash
+  ```
   import torch
   from model import Daowa_maad # Asegúrate de importar tu clase
 
@@ -60,7 +60,7 @@ El modelo demuestra una robustez inusual en escenarios difíciles:
   model = Daowa_maad(num_clases=3).to(device)
   model.load_state_dict(torch.load("Roland_Epoch20.pth", map_location=device))
   model.eval()
- 
+ ```
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 # Mendicant Bias: Clasificador de Gatos vs Perros (From Kaggle) 🐾
