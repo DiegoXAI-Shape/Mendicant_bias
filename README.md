@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 ## 📖 Descripción
-**Roland-Infinity** (anteriormente conocido como *Mendicant Bias*) es un modelo de segmentación semántica de alto rendimiento diseñado para distinguir mascotas (perros y gatos) de fondos complejos con una precisión al **90%**.
+**Roland-Infinity** es un modelo de segmentación semántica de alto rendimiento diseñado para distinguir mascotas (perros y gatos) de fondos complejos con una precisión al **90%**.
 
 A diferencia de las U-Nets tradicionales, este modelo implementa **Attention Gates** personalizadas que le permiten aprender características semánticas robustas. Esto le otorga la capacidad única de ignorar oclusiones (rejas), objetos extraños (ropa) y representaciones no biológicas (dibujos/emojis), enfocándose puramente en las características biológicas del animal.
 
