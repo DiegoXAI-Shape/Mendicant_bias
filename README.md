@@ -33,7 +33,7 @@ El modelo demuestra una robustez inusual en escenarios difíciles:
 
 | Escenario | Resultado | Análisis |
 | :--- | :--- | :--- |
-| **Oclusión (Rejas)** | ✅ **Éxito** | El modelo ignora los barrotes y segmenta al perro detrás de ellos. |
+| **Oclusión parcial** | ✅ **Éxito** | El modelo ignora cosasa que no sean del propio animal. |
 | **Out-of-Distribution (Ropa)** | ✅ **Éxito** | Distingue la textura del gato vs. la textura de la tela (trajes/corbatas), recortando solo al animal. |
 | **Falsos Positivos (Emojis)** | ✅ **Éxito** | Discrimina entre un gato real y ediciones digitales (manos de emoji/stickers). |
 
